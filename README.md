@@ -1,3 +1,3 @@
 # Camera-pose-optimization
 
-dependency : opencv
+dependency : opencv, TMProMesh

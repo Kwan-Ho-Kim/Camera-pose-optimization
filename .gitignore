@@ -72,8 +72,9 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Experiment environment and 
-/[Aa]ssets/[Ff]inal*/*
+/[Aa]ssets/[Ff]inal*
 /[Aa]ssets/Open*
+/[Aa]ssets/TextMesh*
 /[Aa]ssets/resource*
 /[Aa]ssets/roadsign_from*
 /[Aa]ssets/Scenes/Flat*
