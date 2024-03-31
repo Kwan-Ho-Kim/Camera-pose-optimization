@@ -72,4 +72,12 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Experiment environment and 
-/[Aa]ssets/*
+/[Aa]ssets/[Ff]inal*/*
+/[Aa]ssets/Open*
+/[Aa]ssets/resource*
+/[Aa]ssets/roadsign_from*
+/[Aa]ssets/Scenes/Flat*
+/[Aa]ssets/Scenes/UOU*
+/[Aa]ssets/terrain*
+/[Aa]ssets/UOU2*
+/[Aa]ssets/CamOptimizer/Test*
